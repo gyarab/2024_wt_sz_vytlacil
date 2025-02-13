@@ -1,8 +1,18 @@
 from turtle import forward ,exitonclick, left, right
-
+left(90)
 forward(100)
-
-
-
-
+right(90)
+forward(100)
+right(135)
+forward(140)
+left(135)
+forward(100)
+left(90)
+forward(100)
+left(45)
+forward(70)
+left(90)
+forward(70)
+left(90)
+forward(140)
 exitonclick()
